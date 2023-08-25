@@ -1,4 +1,4 @@
-### Hi there! I'm Soumik 👋
+### Hey there! I'm Soumik 👋
 
 - 🔭 I’m currently open to work on software engineer roles.
 - 🌱 I’m currently learning Full Stack Web Development.
